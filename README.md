@@ -32,7 +32,7 @@ Please cite this paper in your publications if it helps your research:
 @article{huang2019beyond,
   title={Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Long-Term Person Re-Identification},
   author={Huang, Yan and Xu, Jingsong and Wu, Qiang and Zhong, Yi and Zhang, Peng and Zhang, Zhaoxiang},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  journal={Transactions on Circuits and Systems for Video Technology (TCSVT)},
   year={2019},
   publisher={IEEE}
 }
@@ -40,7 +40,7 @@ Please cite this paper in your publications if it helps your research:
 @inproceedings{huang2019celebrities,
   title={Celebrities-ReID: A Benchmark for Clothes Variation in Long-Term Person Re-Identification},
   author={Huang, Yan and Wu, Qiang and Xu, Jingsong and Zhong, Yi},
-  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  booktitle={International Joint Conference on Neural Networks (IJCNN)},
   pages={1--8},
   year={2019},
   organization={IEEE}
