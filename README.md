@@ -26,24 +26,20 @@ The code will be released soon (under cleaning).
 
 ### Citation
 Please cite this paper in your publications if it helps your research:
-
-If you use our `Celeb-reID` dataset, please kindly cite our paper TCSVT2019 paper as follows:
-
-`@article{huang2019beyond,
+```
+@article{huang2019beyond,
   title={Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Long-Term Person Re-Identification},
   author={Huang, Yan and Xu, Jingsong and Wu, Qiang and Zhong, Yi and Zhang, Peng and Zhang, Zhaoxiang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2019},
   publisher={IEEE}
-}`
+}
 
-If you use our `Celeb-reID-light` dataset, please kindly cite our paper TCSVT2019 paper as follows:
-
-`@inproceedings{huang2019celebrities,
+@inproceedings{huang2019celebrities,
   title={Celebrities-ReID: A Benchmark for Clothes Variation in Long-Term Person Re-Identification},
   author={Huang, Yan and Wu, Qiang and Xu, Jingsong and Zhong, Yi},
   booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
   pages={1--8},
   year={2019},
   organization={IEEE}
-}`
+}
