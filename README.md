@@ -4,6 +4,7 @@ This repository contains Datasets and Code for our paper [Beyond Scalar Neuron: 
 
 ### 1.Dataset
 ![](https://github.com/Huang-3/Celeb-reID/blob/master/show.jpg)
+
 You can directly download our datasets from OneDrive [Celeb-reID](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O) and its light version [Celeb-reID-light](https://1drv.ms/u/s!Ats-N2hYCkEIgckRrtd0HGhUZPqNcw?e=ziRTjb).
 
 The data split of `Celeb-reID` is as follows:
