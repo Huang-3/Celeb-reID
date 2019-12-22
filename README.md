@@ -24,13 +24,13 @@ The data split of `Celeb-reID-light` is as follows:
 `Note: The two datasets should be used for research only. Please DO NOT distribute or use it for commercial purpose.`
 
 ### 2.Code
-![](https://github.com/Huang-3/Celeb-reID/blob/master/show_reidcaps.jpg)
+![ReIDCaps Network Architecture](https://github.com/Huang-3/Celeb-reID/blob/master/show_reidcaps.jpg)
 Our code (ReIDCaps) is implemented by Pytorch(>=1.0.0) and python(anaconda 3.6) with Ubuntu.
 
 `To run the training code:`
 
 `First`: Download the Celeb-reID dataset to your own path. Do body part partition by copying the `part_partition.m` file to the path of your dataset. Changing `name=gallery`, `name=query`, and `name=train` to get the body part partition files in the path of your Celeb-reID dataset.
-![0.3](https://github.com/Huang-3/Celeb-reID/blob/master/show_part.jpg)
+![](https://github.com/Huang-3/Celeb-reID/blob/master/show_part.jpg)
 
 `Second`: Directly run the `run_train.sh` by `bash ./run_train.sh` on console. You may change the path of dataset in the file of `run_train.sh` according to your own path.
 
