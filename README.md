@@ -65,6 +65,14 @@ Please cite this paper in your publications if it helps your research:
   publisher={IEEE}
 }
 
+@inproceedings{huang2021clothing,
+  title={Clothing status awareness for long-term person re-identification},
+  author={Huang, Yan and Wu, Qiang and Xu, JingSong and Zhong, Yi and Zhang, ZhaoXiang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11895--11904},
+  year={2021}
+}
+
 @inproceedings{huang2019celebrities,
   title={Celebrities-ReID: A Benchmark for Clothes Variation in Long-Term Person Re-Identification},
   author={Huang, Yan and Wu, Qiang and Xu, Jingsong and Zhong, Yi},
