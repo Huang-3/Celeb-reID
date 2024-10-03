@@ -5,7 +5,7 @@ This repository contains Datasets and Code for our paper [Beyond Scalar Neuron: 
 ### 1.Dataset
 ![](https://github.com/Huang-3/Celeb-reID/blob/master/show.jpg)
 
-You can directly download our datasets from OneDrive [Celeb-reID](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O) and its light version [Celeb-reID-light](https://1drv.ms/u/s!Ats-N2hYCkEIgckRrtd0HGhUZPqNcw?e=ziRTjb).
+You can directly download our datasets from OneDrive [Celeb-reID](https://1drv.ms/u/c/08410a5868373edb/EW7Yw0LA19NBlVArKFeZTZgBq-yNSHRc2cJj7TDKMA_XWg?e=IZoh3K) and its light version [Celeb-reID-light](https://1drv.ms/u/c/08410a5868373edb/EdU4rBSX7-RGsal6Gh11V98BP7pi_pusChrlBLoNJIw7eg?e=EbeSTm).
 
 Baidu Cloud Link:
 
